@@ -1,4 +1,4 @@
-# P2Py
+# P2P_py
 Little educational code to understand [bully algorithm](https://en.wikipedia.org/wiki/Bully_algorithm) on p2p networks.
 May be part of something bigger in the future.
 
